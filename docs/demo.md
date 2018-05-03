@@ -67,7 +67,7 @@ public class Test {
 
 我的微信公众号
 
-![微信公众号](http://mazhuang.org/assets/images/qrcode.jpg)
+![微信公众号](https://mazhuang.org/assets/images/qrcode.jpg)
 
 ### 链接示例
 

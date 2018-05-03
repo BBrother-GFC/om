@@ -6,7 +6,7 @@
 
 ## 在线使用地址
 
-<http://md.mazhuang.org>
+<https://md.mazhuang.org>
 
 ## 问题反馈 & 建议
 
