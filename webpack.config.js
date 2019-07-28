@@ -17,7 +17,7 @@ module.exports = {
     },
     module: {
         //加载器配置
-        loaders: [
+        rules: [
             { test: /\.css$/, loader: 'style-loader!css-loader' },
             { test: /\.js$/, loader: 'jsx-loader?harmony' },
             { test: /\.less$/, loader: 'style-loader!css-loader!less-loader?sourceMap'},
