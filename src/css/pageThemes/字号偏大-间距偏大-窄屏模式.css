@@ -1,5 +1,5 @@
 .wrapper {
-  font-size: 16px;
+  font-size: 17px;
   font-family: Avenir, -apple-system-font, 微软雅黑, sans-serif;
 }
 .wrapper > * {
@@ -7,7 +7,7 @@
   margin-left: 16px;
 }
 .wrapper p {
-  font-size: 16px;
+  font-size: 17px;
   white-space: pre-line;
   line-height: 30px;
   color: #4a4a4a;
@@ -35,4 +35,8 @@
 .wrapper ul li span, .wrapper ol li span {
   line-height: 22px;
 /*  font-size: 14px !important;*/
+}
+
+.wrapper li {
+  word-break: break-all;
 }
